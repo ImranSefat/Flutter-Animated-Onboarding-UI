@@ -10,8 +10,8 @@
 
 Light Mode             |  Dark Mode
 :-------------------------:|:-------------------------:
-![](https://i.ibb.co/xh1xZZk/img1L.png)  |  ![](https://i.ibb.co/DDhV8VC/img2.pnghttps://i.ibb.co/PWWDzLx/img2.png)
-![](https://i.ibb.co/hdjKbSp/img2L.png)  |  ![](https://i.ibb.co/PWWDzLx/img2.png)
+![Light mode picture 1](https://i.ibb.co/xh1xZZk/img1L.png)  |  ![Dark Mode picture 1](https://i.ibb.co/DDhV8VC/img2.pnghttps://i.ibb.co/PWWDzLx/img2.png)
+![Light Mode picture 2](https://i.ibb.co/hdjKbSp/img2L.png)  |  ![Dark Mode picture 2](https://i.ibb.co/PWWDzLx/img2.png)
 
 
 
